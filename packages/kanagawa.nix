@@ -9,7 +9,7 @@ pkgs.stdenv.mkDerivation {
     owner = "dangooddd";
     repo = "${flavor}.yazi";
     rev = "04985d12842b06bdb3ad5f1b3d7abc631059b7f5";
-    hash = "";
+    hash = "sha256-Yz0zRVzmgbrk0m7OkItxIK6W0WkPze/t09pWFgziNrw=";
   };
 
   installPhase = ''
