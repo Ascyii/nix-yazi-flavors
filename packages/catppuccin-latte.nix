@@ -9,7 +9,7 @@ pkgs.stdenv.mkDerivation {
     owner = "yazi-rs";
     repo = "flavors";
     rev = "0f9204bc948c8313963f5c9d571a82edc201f8aa";
-    hash = "";
+    hash = "sha256-qWNArjWuxWL+rOjLzyIniW5hJgWiAWTCgXmMXJpaWZE=";
   };
 
   installPhase = ''
