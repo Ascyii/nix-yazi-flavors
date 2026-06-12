@@ -4,12 +4,12 @@ let
 in 
 pkgs.stdenv.mkDerivation {
   pname = "yazi-flavor-${flavor}";
-  version = "sep-13";
+  version = "may-31";
   src = fetchFromGitHub {
     owner = "yazi-rs";
     repo = "flavors";
-    rev = "4296a380570399e3c36aec054f37aa48f35cf6b1";
-    hash = "sha256-KNpr7eYHm2dPky1L6EixoD956bsYZZO3bCyKIyAlIEw=";
+    rev = "0f9204bc948c8313963f5c9d571a82edc201f8aa";
+    hash = "sha256-qWNArjWuxWL+rOjLzyIniW5hJgWiAWTCgXmMXJpaWZE=";
   };
 
   installPhase = ''
