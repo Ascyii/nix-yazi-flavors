@@ -20,4 +20,5 @@ pkgs: {
   dracula = pkgs.callPackage ./dracula.nix {};
   nord = pkgs.callPackage ./nord.nix {};
   onedark = pkgs.callPackage ./onedark.nix {};
+  base16 = pkgs.callPackage ./base16.nix {};
 }

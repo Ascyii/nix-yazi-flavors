@@ -106,6 +106,17 @@ Here you can browse all the flavors available in this repository.
 
 <details>
 <summary>
+<a href="https://github.com/matt-dong-123/base16.yazi">base16.yazi</a>
+</summary>
+
+```nix
+pkgs.yaziFlavors.base16.yazi
+```
+
+</details>
+
+<details>
+<summary>
 <a href="https://github.com/yazi-rs/flavors/tree/main/catppuccin-frappe.yazi">catppuccin-frappe.yazi</a>
 </summary>
 
